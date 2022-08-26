@@ -46,7 +46,7 @@ Clone the repo and run the installation script as root to configure the system o
 
 ```text
 git clone https://github.com/marcosfermin/r710-fan-control.git
-cd r710-fan-controller
+cd r710-fan-control
 sudo ./install.sh [<installation path>]
 ```
 
